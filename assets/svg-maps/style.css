@@ -1,0 +1,6 @@
+.region_card_map_svg svg {
+    fill:red !important;
+    }
+    .region_card_map_svg svg path {
+    fill:red !important;
+    }
